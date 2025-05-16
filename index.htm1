@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8" />
+    <title>Youssef Hemeda - Portfolio</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            color: #333;
+            text-align: center;
+            padding: 40px;
+        }
+        .container {
+            background: white;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 0 15px rgba(0,0,0,0.1);
+            max-width: 700px;
+            margin: auto;
+        }
+        img {
+            width: 150px;
+            border-radius: 100px;
+            margin-bottom: 20px;
+        }
+        a {
+            text-decoration: none;
+            color: #007acc;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://via.placeholder.com/150" alt="Youssef Hemeda" />
+        <h1>Youssef Hemeda</h1>
+        <h3>Architect | Lumion & Photoshop Specialist</h3>
+        <p>
+            Welcome to my online portfolio. I'm passionate about modern architectural design and visualization.<br />
+            Please feel free to explore my projects on Behance.
+        </p>
+        <p>
+            <strong>Behance:</strong> <a href="https://www.behance.net/youssefhemeda" target="_blank">Click here</a><br />
+            <strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/youssef-hemeda-138320297" target="_blank">Click here</a><br />
+            <strong>Email:</strong> yousifhemada12@gmail.com<br />
+            <strong>Phone:</strong> 01032420143
+        </p>
+    </div>
+</body>
+</html>
